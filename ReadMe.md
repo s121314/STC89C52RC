@@ -1,4 +1,4 @@
-# TXOS for STC89C52RC by ♪紫小墨
+# TXOS for STC89C52RC by ^ω^ㄍ紫小墨
 
 这是一个运行在STC89C52RC上的多任务管理程序，不再更新，因为8051架构确实太偏离主流了,在8051上写代码有种玩杂技的感觉.
 
@@ -13,4 +13,4 @@ Ps, 因为win上的git体验很不好，所以并没有使用git管理本工程�
 
 每一行代码都是修行~
 
-For more , <https://welod.github.io/>
+For more , <https://github.com/welod>
