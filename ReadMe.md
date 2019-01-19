@@ -13,4 +13,5 @@ Ps, 因为win上的git体验很不好，所以并没有使用git管理本工程�
 
 每一行代码都是修行~
 
-For more , <https://github.com/welod>
+我在知乎专栏上详细介绍了这个“操作系统”
+https://zhuanlan.zhihu.com/p/55246097
