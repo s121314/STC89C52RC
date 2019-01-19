@@ -4,7 +4,9 @@
 
 可以移植到STC15F2K60S2，完美运行.
 
-环境：keil5，打开工程前先用STC-ISP.exe导入STC的器件库。
+环境：keil5，打开工程前先用STC-ISP.exe[^STCISP]导入STC的器件库。
+
+[^STCISP]: http://www.sctisp.com
 
 +缓冲区模型，可以使用串口，异步IO。
 异步IO也好，同步IO也罢，毕竟8051只是一个玩具，~~~下一步我会学习STM32，有空会研究一下STM8.~~~
